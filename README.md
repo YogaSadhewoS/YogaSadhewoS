@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Welcome to My Github
- 👨‍🎓Hi! I'm Yoga Sadhewo Shalahudin, Junior Software Developer from Indonesia.<br>🔧 Experienced with **Laravel** (internship & final project), and **C#**.<br>📌 Used to working with task management via OpenProject.<br>🌱 Currently learning **React** and focusing on frontend development.
+ 👨‍🎓 Hi! I'm Yoga Sadhewo Shalahudin, Junior Software Developer from Indonesia.<br>🔧 Experienced with **Laravel** (internship & final project), and **C#**.<br>📌 Used to working with task management via OpenProject.<br>🌱 Currently learning **React** and focusing on frontend development.
 
 
 ### 🤝 Let’s Connect!
